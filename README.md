@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sydneesampson-wk
 - 👀 I’m interested in working on fun projects.
-- 🌱 I’m currently refreshing my JavaScript skills.
-- 💞️ I’m looking to collaborate enhancing some new features.
+- 🌱 I’m currently learning Dart and refreshing my JavaScript skills.
+- 💞️ I’m looking to collaborate on enhancing some new features.
 - 📫 How to reach me: @sydnee.sampson
 
 <!---
